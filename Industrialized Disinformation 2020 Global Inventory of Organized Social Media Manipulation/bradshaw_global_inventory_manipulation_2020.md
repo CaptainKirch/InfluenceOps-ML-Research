@@ -16,7 +16,6 @@ Defintions:
 - CyberTroops: Paper defines as goverment or political party actors tasked with manipulating public opinion online.
 
 
-
 Cyber Troop Activity Continues to Rise Globally
 - In 2020 Brawshaw and research authors found a total of 81 countries that are invovled in cybertroop activity which is an increase from the last posted report.
 - In this paper Bradshaw and authors research a total of 70 countries to try and figure out the tools they are using for cybertroops to manipulate and capitlizae on anti-demcratic narratives.
