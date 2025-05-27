@@ -1,1 +1,0 @@
-https://www.researchgate.net/publication/314433388_Online_Human-Bot_Interactions_Detection_Estimation_and_Characterization

@@ -1,1 +1,0 @@
-https://www.studocu.com/my/document/open-university-malaysia/business-and-management/cyber-troop-report-2020-v/13161975
